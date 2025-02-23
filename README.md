@@ -2,6 +2,7 @@
 This code can be used to solve the deterministic and stochastic Steiner forest problem with Gurobi. It is used
 for the following papers:
 
+I am Emma queen of the code.
 
 > Markhorst, B., Berkhout, J., Zocca, A., Pruyn, J., & van der Mei, R. (2025). 
 > Future-proof ship pipe routing: Navigating the energy transition. 
